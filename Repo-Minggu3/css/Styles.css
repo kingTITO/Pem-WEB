@@ -7,27 +7,27 @@ body{
 .profile{
     width: 100%;
     float: left;
-    color: #e0e0e0;
+    color: #aaaaaa;
     background-image: url("../Foto/AE3.jpg");
     background-size: 100pc;
 }
 .wrapper_profile{
     background-color: rgba(118, 172, 164, 0.274);
-    padding: 30px 20px;
+    padding: 60px 80px;
     float: left;
     width: 100%;
 }
 .photo_name{
     width: 50%;
     float: left;
-    padding: 15px;
+    padding: 10px;
     margin: 0 25%;
     background-color: rgba(0, 225, 225, 0.3);
-    border-radius: 10px;
+    border-radius: 25px;
 }
 .photo_name img{
     height: 150px;
-    width: 150px;
+    width: 160px;
     border-radius: 100%;
     float: left;
 }
@@ -45,32 +45,40 @@ body{
 }
 .band{
     width: 100%;
-    float: left;
-    background-color: rgba(0, 225, 225, 0.3);
+    background-color: rgba(42, 105, 95, 0.911);
     margin-top: 5px;
+    float: left;
 }
 .band h3{
     text-align: center;
-    background-color: royalblue;
+    background-color: rgb(67, 71, 69);
     padding: 20px;
     margin: 0;
 }
 .flex_box{
     display: flex;
-   
 }
-.band li{
+.flex_box li{
     flex: auto;
     list-style: none;
     padding: 30px;
 }
-.band img{
-    width: 20%;
+.flex_box img{
+    width: 100%;
     padding: 1%;
     border-radius: 3%;
-    background-color: royalblue;
+    background-color: rgb(97, 97, 97);
 }
-.band h4{
+.flex_box h4{
     text-align: center;
-
+}
+.flex_box audio{
+    margin-top: 5px;
+    width: 510px;
+}
+.flex_box video{
+    padding: 2px;
+    border-radius: 3%;
+    background-color: rgb(97, 97, 97);
+    float: left;
 }
