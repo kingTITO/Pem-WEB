@@ -82,3 +82,19 @@ body{
     background-color: rgb(97, 97, 97);
     float: left;
 }
+.biography{
+    width: 100%;
+    float: left;
+    margin-top: auto;
+    background-color: rgb(10, 78, 78);
+}
+.desc{
+    width: 90%;
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+}
+.desc h2{
+    text-align: center;
+    height: 20px;
+}
