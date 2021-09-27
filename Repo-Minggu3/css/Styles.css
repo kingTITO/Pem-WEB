@@ -1,9 +1,11 @@
 *{
     box-sizing: border-box;
 }
+/* Bentuk font*/
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
+/*Background atas*/
 .profile{
     width: 100%;
     float: left;
@@ -11,12 +13,14 @@ body{
     background-image: url("../Foto/AE3.jpg");
     background-size: 100pc;
 }
+
 .wrapper_profile{
-    background-color: rgba(118, 172, 164, 0.274);
+    background-color: rgba(132, 118, 172, 0.274);
     padding: 60px 80px;
     float: left;
     width: 100%;
 }
+
 .photo_name{
     width: 50%;
     float: left;
@@ -25,6 +29,7 @@ body{
     background-color: rgba(0, 225, 225, 0.3);
     border-radius: 25px;
 }
+/*Foto*/
 .photo_name img{
     height: 150px;
     width: 160px;
@@ -35,6 +40,7 @@ body{
     padding: 40px 50px;
     float: left;
 }
+
 .detail_profile{
     float: left;
     text-align: center;
@@ -43,6 +49,7 @@ body{
 .detail_profile h3{
     margin-block-end: 2px;
 }
+
 .band{
     width: 100%;
     background-color: rgba(42, 105, 95, 0.911);
@@ -55,6 +62,7 @@ body{
     padding: 20px;
     margin: 0;
 }
+
 .flex_box{
     display: flex;
 }
@@ -72,16 +80,19 @@ body{
 .flex_box h4{
     text-align: center;
 }
+/*audio*/
 .flex_box audio{
     margin-top: 5px;
     width: 510px;
 }
+/*vidio*/
 .flex_box video{
     padding: 2px;
     border-radius: 3%;
     background-color: rgb(97, 97, 97);
     float: left;
 }
+/*Biography*/
 .biography{
     width: 100%;
     float: left;
