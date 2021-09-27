@@ -15,7 +15,7 @@ body{
 }
 
 .wrapper_profile{
-    background-color: rgba(132, 118, 172, 0.274);
+    background-color: rgba(118, 172, 164, 0.274);
     padding: 60px 80px;
     float: left;
     width: 100%;
@@ -92,6 +92,36 @@ body{
     background-color: rgb(97, 97, 97);
     float: left;
 }
+.flex_box2{
+    display: flex;
+}
+.flex_box2 li{
+    flex: auto;
+    list-style: none;
+    padding: 30px;
+}
+.flex_box2 object{
+    width: 90%;
+    height: 400px;
+    padding: 1%;
+    border-radius: 3%;
+    background-color: rgb(97, 97, 97);
+}
+.flex_box2 h4{
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+.flex_box2 iframe{
+    width: 90%;
+    height: 400px;
+    padding: 2px;
+    border-radius: 3%;
+    background-color: rgb(97, 97, 97);
+    float: right;
+    margin-right: 40px;
+}
+
 /*Biography*/
 .biography{
     width: 100%;
