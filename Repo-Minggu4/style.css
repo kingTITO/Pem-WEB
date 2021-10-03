@@ -2,10 +2,10 @@ body{
     width: 100%;
     float: left;
     background-size: 50%;
-    background-image: url(../foto/Dino.jpg);
+    background-image: url(foto/Dino.jpg);
 }
 h4{
-    color: tan;
+    color: rgb(216, 189, 153);
     text-align: center;
     background-color: rgb(89, 92, 91);
     padding: 20px;
@@ -35,6 +35,10 @@ table{
 table td{
     padding: 5px;
 }
+justify{
+    margin-left: 75px;
+    float: left;
+}
 
 input[type="text"] {
     width: 183px;
@@ -54,7 +58,6 @@ select{
 input[type="email"] {
     width: 183px;
 }
-
 
 button{
     width: 70px;
