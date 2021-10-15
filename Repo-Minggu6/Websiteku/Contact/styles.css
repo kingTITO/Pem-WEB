@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    min-width: 300px;
+}
+
+body{
+    background-color: #CABBBE;
+}
+
+nav{
+    padding: 8px;
+    margin: 0;
+    text-align: left;
+    border-width: 1px 0;
+    border-color: #44275e;
+    border-style: solid;
+    background-color: #00666d;
+}
+nav a{
+    text-decoration: none;
+    padding: 0 5px;
+    color: black;
+    font-size: 12px;
+    position: relative;
+    font-family: "Raleway", sans-serif;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+div{
+    width: 100%;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+footer{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-style: italic;
+    
+}
