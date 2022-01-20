@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Offside&family=Overlock&display=swap');
+
+
+body{ 
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.row img{
+    border-radius: 5px;
+    margin-bottom: -20px;
+    margin-left: 15px;
+    
+}
+.row h5 {
+    font-family: 'offside', cursive;
+    color: #BCBABA;
+}
+.row p {
+    font-family: 'offside', cursive;
+    margin-left: 59px;
+    font-size: 13px;
+    color: #424242;
+}
+.card{
+    margin-top: 100px;
+    margin-left: 26%;
+    width: 50%;
+    background: rgba(90, 90, 90, 0.73)
+}
+.btn-color-theme{
+    font-family: 'offide', cursive;
+    color: #BCBABA;
+    background-color: #424242;
+}
+a:hover{
+    color: #BCBABA;
+}
+.text-theme{
+    color: #424242;
+}
+.border-radius-10{
+    border-radius: 10px;
+}
+.margin-left{
+    margin-left: 48%;
+    margin-top: 15px;
+}
+.sosial{
+    font-family: 'overlock', cursive;
+    border: hidden;
+    border-radius: 5px;
+    margin-left: 5px;
+}
