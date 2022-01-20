@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Mystery+Quest&family=Offside&family=Overlock&family=Raleway:ital,wght@1,200&display=swap');
+
+nav{
+    font-family: 'offside', cursive;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+
+/*Style Slider*/
+.carousel-item{
+    height: 550px;
+}
+.carousel-item .display-4{
+    margin-top: -350px;
+    font-family: 'overlock', cursive;
+}
+.carousel-caption h6{
+    font-family: 'raleway',cursive;
+}
+.carousel-item hr{
+    background-color: #F6F3EE;
+    width: 70px;
+    border-width: 3px;
+}
+.carousel-item .btn{
+    background-color: #C2C9CD;
+    border: none;
+    border-radius: 25px;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+
+.col-sm-3 .icon{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+.col-sm-3 p{
+    text-align: center;
+}
+
+.width{
+    width: 120px;
+    height: 350px;
+}
+.card-title{
+    font-family: 'overlock', cursive;
+    font-size: 40px;
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-bottom: 80px;
+
+}
+.card-text{
+    margin-left: 30px;
+    
+}
+
+.col-sm-2 img{
+    margin-top: -250px;
+}
+.code1{
+    margin-left: -20px;
+}
+.code2{
+    margin-left: 130px;
+    margin-top: 600px;
+}
+.code3{
+    margin-left: 480px;
+    margin-top: -500px;
+}
+article{
+    margin-top: 180px;
+}
+article h5  {
+    font-family: 'offside',cursive;
+    margin-left: 100px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+article p  {
+    font-family: 'overlock',cursive;
+    margin-left: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+figure{
+    margin-top: 100px;
+}
+aside{
+    float: right;
+    margin-top: -550px;
+    margin-right: 100px;
+}
+.btn-color-theme{
+    font-family: 'offside', cursive;
+    color: #BCBABA;
+    background-color: #424242;
+    margin-left: 640px;
+}
+
+footer{
+    background-color: black;
+    margin-top: 10px;
+    font-family: 'offside',cursive;
+}
+.col-9 p{
+    color: white;
+    margin-top: 20px;
+}
+.col-9 h5{
+    color: white;
+}
+.col- .mail{
+    color: white;
+    font-size: 45px;
+}
+.col-1 h6{
+    color: white;
+    margin-top: 15px;
+}
+.row h6{
+    color: white;
+}
+.col- .phone{
+    color: white;
+    font-size: 20px;
+}
+.col-5 p{
+    color: white;
+    margin-bottom: 30px;
+}

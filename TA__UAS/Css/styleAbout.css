@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300&family=Inconsolata:wght@300&family=Mystery+Quest&family=Offside&family=Overlock&family=Raleway:ital,wght@1,200&family=Yanone+Kaffeesatz&display=swap');
+
+.jumbotron{
+    background-image: url("../Img/pen.svg");
+    font-family: 'overlock',cursive;
+    background-size: cover;
+    background-position:top;
+}
+
+.my-4{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+    border-width: 3px;
+}
+.about{
+    font-family: 'offside',cursive;
+}
+.my-5{
+    background-color: rgb(0, 0, 0);
+    width: 200px;
+    border-width: 3px;
+}
+.detail{
+    font-family: 'overlock',cursive;
+}
+.col-sm-4 .icon{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 10px;
+}
+.col-sm-4 h6{
+    font-family: 'yanone Kaffeesatz',cursive;
+    font-size: 25px;
+}
+.jumbotron-fluid{
+    background-color: #100f22 ;
+}
+.display-6{
+    font-family: 'exo 2',cursive;
+}
+.lead{
+    font-family: 'exo 2',cursive;
+}
+.my-6{
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    border-width: 3px;
+}
+.btn{
+    margin-left: 420px;
+    font-family: 'exo 2',cursive;
+}
+.col-sm-4 .ikon{
+    font-family: 'overlock',cursive;
+    font-size: 17px;
+}
+footer h2{
+    font-family: 'raleway',cursive;
+}
+.col-{
+    margin-left: 150px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}

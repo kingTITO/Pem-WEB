@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Mystery+Quest&family=Offside&family=Overlock&family=Raleway:ital,wght@1,200&display=swap');
+
+nav {
+    font-family: 'offside',cursive;
+}
+
+.card p{
+    margin-top: -10px;
+    margin-bottom: 1px;
+}
+
+.row .card:hover{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0, 4);
+    transform: scale(1.02);
+}
+.row li{
+    font-family: 'overlock',cursive;
+}
+#product{
+    font-family: 'raleway',cursive;
+}
+.card-title{
+    font-family: 'offside',cursive;
+}
+#border{
+    border-radius: 5px;
+}
+#font{
+    font-family: 'inconsolata',cursive;
+}
+#exampleModalLabel{
+    font-family: 'overlock',cursive;
+}
+th{
+    font-family: 'overlock',cursive;
+}
+td{
+    font-family: 'inconsolata',cursive;
+}
+footer{
+    background-color: black;
+}
+.last {
+    font-family: 'offside',cursive;
+}
